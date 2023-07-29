@@ -20,7 +20,7 @@ w = Queue()
 
 # Globals
 host = '185.209.162.126'
-port = 9090
+port = 5000
 thr = 135
 item = 0
 
